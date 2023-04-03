@@ -1,0 +1,17 @@
+C:\Users\агроном\source\repos\WordApp\WordApp\bin\Debug\netcoreapp3.1\WordApp.exe
+C:\Users\агроном\source\repos\WordApp\WordApp\bin\Debug\netcoreapp3.1\WordApp.deps.json
+C:\Users\агроном\source\repos\WordApp\WordApp\bin\Debug\netcoreapp3.1\WordApp.runtimeconfig.json
+C:\Users\агроном\source\repos\WordApp\WordApp\bin\Debug\netcoreapp3.1\WordApp.runtimeconfig.dev.json
+C:\Users\агроном\source\repos\WordApp\WordApp\bin\Debug\netcoreapp3.1\WordApp.dll
+C:\Users\агроном\source\repos\WordApp\WordApp\bin\Debug\netcoreapp3.1\WordApp.pdb
+C:\Users\агроном\source\repos\WordApp\WordApp\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\агроном\source\repos\WordApp\WordApp\obj\Debug\netcoreapp3.1\WordApp.csproj.AssemblyReference.cache
+C:\Users\агроном\source\repos\WordApp\WordApp\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\агроном\source\repos\WordApp\WordApp\obj\Debug\netcoreapp3.1\WordApp.csproj.ResolveComReference.cache
+C:\Users\агроном\source\repos\WordApp\WordApp\obj\Debug\netcoreapp3.1\WordApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\агроном\source\repos\WordApp\WordApp\obj\Debug\netcoreapp3.1\WordApp.AssemblyInfoInputs.cache
+C:\Users\агроном\source\repos\WordApp\WordApp\obj\Debug\netcoreapp3.1\WordApp.AssemblyInfo.cs
+C:\Users\агроном\source\repos\WordApp\WordApp\obj\Debug\netcoreapp3.1\WordApp.csproj.CoreCompileInputs.cache
+C:\Users\агроном\source\repos\WordApp\WordApp\obj\Debug\netcoreapp3.1\WordApp.dll
+C:\Users\агроном\source\repos\WordApp\WordApp\obj\Debug\netcoreapp3.1\WordApp.pdb
+C:\Users\агроном\source\repos\WordApp\WordApp\obj\Debug\netcoreapp3.1\WordApp.genruntimeconfig.cache
