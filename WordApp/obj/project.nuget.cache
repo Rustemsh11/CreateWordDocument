@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NoRJuqAfwjSpQZSuXG06AECP4iJqygwJX+JqIAhu1Z36FL4FlQ/jr+y0eOPHTKq5bbqSnZm0oWl4gvhRmzA2Bw==",
+  "dgSpecHash": "K6qd/+KHGV/prLe3V382R2IdPniKUtF3LHqkgWYTUEJUFaABR4TMlSll4v5TI01ixAPHMfTrCpPxQX2kSQ7m2Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\агроном\\source\\repos\\WordApp\\WordApp\\WordApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\агроном\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
   "logs": []
 }

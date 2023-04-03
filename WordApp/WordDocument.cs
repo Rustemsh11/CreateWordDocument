@@ -36,8 +36,8 @@ namespace WordApp
             range2.Text = "Запрос о предоставлении ценовой информации";
             range2.Font.Name = "Times New Roman";
             range2.Font.Size = 20;
-            range2.Font.Bold = 0;
-            document.SaveAs(@"C:\Users\агроном\Desktop\test.docx");
+            range2.Font.Bold = 0;            
+            document.SaveAs(@"C:\Users\агроном\Desktop\WordTest\test.docx");
             document.Close();
 
             application.Quit();
