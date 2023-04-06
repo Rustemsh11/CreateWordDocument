@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\агроном\\source\\repos\\WordApp\\WordApp\\WordApp.csproj": {}
+    "C:\\Users\\агроном\\Desktop\\User1\\CreateWordDocument\\WordApp\\WordApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\агроном\\source\\repos\\WordApp\\WordApp\\WordApp.csproj": {
+    "C:\\Users\\агроном\\Desktop\\User1\\CreateWordDocument\\WordApp\\WordApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\агроном\\source\\repos\\WordApp\\WordApp\\WordApp.csproj",
+        "projectUniqueName": "C:\\Users\\агроном\\Desktop\\User1\\CreateWordDocument\\WordApp\\WordApp.csproj",
         "projectName": "WordApp",
-        "projectPath": "C:\\Users\\агроном\\source\\repos\\WordApp\\WordApp\\WordApp.csproj",
+        "projectPath": "C:\\Users\\агроном\\Desktop\\User1\\CreateWordDocument\\WordApp\\WordApp.csproj",
         "packagesPath": "C:\\Users\\агроном\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\агроном\\source\\repos\\WordApp\\WordApp\\obj\\",
+        "outputPath": "C:\\Users\\агроном\\Desktop\\User1\\CreateWordDocument\\WordApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\агроном\\AppData\\Roaming\\NuGet\\NuGet.Config",
