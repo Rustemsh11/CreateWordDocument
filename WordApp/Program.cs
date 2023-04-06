@@ -7,7 +7,7 @@ namespace WordApp
         static void Main(string[] args)
         {
             WordDocument word = new WordDocument();
-            word.SuplyerName = "ЖБК Юнион";
+            word.SuplyerName = "GBK Unioin";
             word.SuplyerINN = "23456789";
             word.SuplyerKPP = "2345678908765432";
             word.CompanyName = "gazStroyServis";
